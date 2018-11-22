@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastDummy</string>
+    <string name="button">Blue</string>
+    <string name="enter_msz">Enter MSZ</string>
+    <string name="submit">Submit</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="click_buttons_to_get_text">Click Buttons To Get Text!</string>
+</resources>
